@@ -1,0 +1,7 @@
+[package]
+name = "finbox"
+version = "0.1.0"
+authors = ["arathunku <m@4is.io>"]
+edition = "2018"
+
+[dependencies]
